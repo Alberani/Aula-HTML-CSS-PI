@@ -1,0 +1,27 @@
+.elementoA{
+    background-color: #FDA500;
+    width: 500px;
+    height: 500px;
+}
+.elementoB{
+    background-color: #699E13;
+    width: 250px;
+    height: 250px;
+}
+.elementoC{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.elementoD{
+    background-color: rgb(25, 182, 202);
+    width: 50%;
+    height: 50vh;
+}
+.elementoE{
+    background-color: rgb(214, 62, 62);
+    width: 75vw;
+    height: 50%;
+}
